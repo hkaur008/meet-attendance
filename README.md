@@ -25,17 +25,26 @@ class="YvoLGe"
 
 
 ocument.getElementsByClassName("YvoLGe")[1].textContent
-"hargun kaurkeep_offhargun kaurJoined"
+"hargun kaurkeep_offhargun kaurJoined"  |
+
+
 document.getElementsByClassName("YvoLGe")[2].textContent
 VM5122:1 Uncaught TypeError: Cannot read property 'textContent' of undefined
     at <anonymous>:1:45
 (anonymous) @ VM5122:1
+    
 document.getElementsByClassName("YvoLGe")[0].textContent
 "Youkeep_offhargun (You)Joined"
+
+
 document.getElementsByClassName("YvoLGe")[0].textContent
 "Youkeep_offhargun (You)Joined"
+
+
 document.getElementsByClassName("cS7aqe ")[0].textContent
 "hargun (You)"
+
+
 document.getElementsByClassName("cS7aqe ")[1].textContent
 "hargun kaur"
   
