@@ -47,6 +47,15 @@ document.getElementsByClassName("cS7aqe ")[0].textContent
 
 document.getElementsByClassName("cS7aqe ")[1].textContent
 "hargun kaur"
+
+
+6/10/2020
+
+tried to build a selenium based attender bot but had 2 classes of same classname , used xpath but still not working 
+fucked up!
+
+
+
   
   
   
