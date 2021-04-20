@@ -2,11 +2,6 @@
 an extension for recording attendance of student 
 
 
-https://developers.google.com/gsuite/add-ons/editors/sheets/quickstart/attendance#another
-
-
-https://www.youtube.com/watch?v=Lez0u21iJbY
-
 
 some class name 
 ### for counting no of participating
@@ -52,7 +47,6 @@ document.getElementsByClassName("cS7aqe ")[1].textContent
 6/10/2020
 
 tried to build a selenium based attender bot but had 2 classes of same classname , used xpath but still not working 
-fucked up!
 
 6/10/2020
 
