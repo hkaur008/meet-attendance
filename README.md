@@ -1,8 +1,12 @@
 # Meet-attendance
 an extension for recording attendance of student 
 
+Screenshot of progress :
+![image](https://user-images.githubusercontent.com/56452820/115463442-712cb600-a249-11eb-83d7-7e8730e03640.png)
+
 DEMO Video:
 https://drive.google.com/file/d/17T5HaExSR9Qq5FnGjXXNq0UY0w8WuKCh/view?usp=sharing
+
 
 some class name 
 ### for counting no of participating
@@ -52,5 +56,7 @@ tried to build a selenium based attender bot but had 2 classes of same classname
 6/10/2020
 
 selenium used reached join meet call ended
+
+
 
 
