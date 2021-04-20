@@ -56,7 +56,7 @@ tried to build a selenium based attender bot but had 2 classes of same classname
 
 selenium used reached join meet call ended
 
-> 11/10/2020
+> 11/10/2020  
  list generated after every 2 mins !
 
 
