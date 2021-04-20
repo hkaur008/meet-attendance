@@ -1,14 +1,14 @@
 # Meet-attendance
 an extension for recording attendance of student 
 
-Screenshot of progress :
+# Screenshot of progress :
 ![image](https://user-images.githubusercontent.com/56452820/115463442-712cb600-a249-11eb-83d7-7e8730e03640.png)
 
-DEMO Video:
+# DEMO Video:
 https://drive.google.com/file/d/17T5HaExSR9Qq5FnGjXXNq0UY0w8WuKCh/view?usp=sharing
 
 
-some class name 
+# Classes useful to extract data  
 ### for counting no of participating
 <span class="rua5Nb" jsname="EydYod">(1)</span>   
 
@@ -17,11 +17,10 @@ document.getElementsByClassName("rua5Nb")[0].innerHTML
 ### FOR PARTICIPANTS NAMES:
 <div class="cS7aqe NkoVdd">hargun (You)</div>
 
-COMMAND TO GET 
-document.getElementsByClassName("NkoVdd")[0].innerHTML NAME OF STUDENT 
+## COMMAND TO GET 
+document.getElementsByClassName("NkoVdd")[0].innerHTML ( NAME OF STUDENT )
 
-
-class="YvoLGe"
+ class="YvoLGe"
 
 
 ocument.getElementsByClassName("YvoLGe")[1].textContent
@@ -48,15 +47,16 @@ document.getElementsByClassName("cS7aqe ")[0].textContent
 document.getElementsByClassName("cS7aqe ")[1].textContent
 "hargun kaur"
 
-
-6/10/2020
+# UPDATES
+> 6/10/2020
 
 tried to build a selenium based attender bot but had 2 classes of same classname , used xpath but still not working 
 
-6/10/2020
+> 6/10/2020
 
 selenium used reached join meet call ended
 
-
+> 11/10/2020
+ list generated after every 2 mins !
 
 
