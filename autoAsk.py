@@ -43,7 +43,6 @@ signin_btn.click()
 
 enter_email =driver.find_element(By.XPATH, '//*[@id="identifierId"]')
 #email=input("enter in your email  ")
-email="rashberry008@gmail.com"
 enter_email.send_keys(email)
 
 driver.find_element(By.XPATH, '//*[@id="identifierNext"]/div/button/div[2]').click()
@@ -51,7 +50,8 @@ driver.find_element(By.XPATH, '//*[@id="identifierNext"]/div/button/div[2]').cli
 checker('//*[@id="password"]/div[1]/div/div[1]/input')
 enter_password =driver.find_element(By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input')
 #password=input("enter in your password  ")
-password="hargunharman"
+
+
 WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input')))
 enter_password.send_keys(password)
 
